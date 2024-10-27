@@ -1,1 +1,1 @@
-SoftUni DevOps Exam - Develop branch
+SoftUni DevOps Exam - Staging branch
